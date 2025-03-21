@@ -1,0 +1,4 @@
+name: HeriaSpleef
+version: 1.0.0
+main: fr.heriamc.games.spleef.SpleefAddon
+depend: [HeriaGameEngine]
